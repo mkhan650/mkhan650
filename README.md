@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mehwish 👋
 
-<!--
-**mkhan650/mkhan650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Software Engineer
 
-Here are some ideas to get you started:
+I’m a Software Engineer focused on building modern, responsive, and user-friendly mobile applications with Flutter and Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 📱 Flutter Developer
+- 💻 Software Engineering background
+- 🎨 Interested in UI/UX and modern app design
+- 🌱 Continuously learning and improving my development skills
+- 💼 Open to freelance and professional opportunities
+
+### 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+- JavaScript
+- Figma
+- Git & GitHub
+
+### 📌 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+- GitHub: [@mkhan650](https://github.com/mkhan650)
+
+---
+
+⭐ Thanks for visiting my profile!
